@@ -1,0 +1,10 @@
+This PR includes the local setup of the Strapi project as part of the assigned task.
+
+Changes covered:
+
+Cloned the official Strapi repository
+Installed dependencies and ran Strapi locally
+Started and verified the Admin Panel
+Created a sample content type using Content-Type Builder
+Documented the setup steps in README.md
+Loom video demonstrating the setup and admin panel is attached.
